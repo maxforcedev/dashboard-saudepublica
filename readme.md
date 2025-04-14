@@ -3,6 +3,11 @@
 Este projeto é um **dashboard interativo** construído com **Dash + Plotly + Python**, focado na **análise de indicadores operacionais e financeiros de hospitais públicos no Brasil**. Ele apresenta gráficos dinâmicos, mapa interativo, KPIs, indicadores de leitos e gastos, além de uma interface moderna e responsiva com **Dash Bootstrap**.
 
 ---
+## 🌐 Acesse o Projeto Online
+
+Visualize o painel interativo em funcionamento diretamente pelo navegador:
+
+🔗 **[Clique aqui para acessar o Dashboard de Gestão Hospitalar Pública](https://dashboard-saudepublica.onrender.com/)**
 
 ![alt text](assets/image-3.png)
 
@@ -72,3 +77,5 @@ Este projeto é um **dashboard interativo** construído com **Dash + Plotly + Py
 ## 🏁 Licença
 
 MIT - Livre para estudar, usar, modificar e distribuir.
+
+> Desenvolvido com dados fictícios para fins educacionais e de portfólio.
