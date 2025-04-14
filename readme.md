@@ -50,7 +50,7 @@ Este projeto é um **dashboard interativo** construído com **Dash + Plotly + Py
 
 | KPIs de Indicadores               | Gráfico de Dispersão                |
 |----------------------------------|-------------------------------------|
-| ![image](assets\image.png) | ![image](assets\image-1.png) |
+| ![image](assets/image.png) | ![image](assets/image-1.png) |
 
 ---
 
